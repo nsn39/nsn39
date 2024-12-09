@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a software engineer from Kathmandu, Nepal. I graduated with a Bachelor's Degree in Computer Engineering from Pulchowk Campus, Tribhuvan University in 2023. Since then, I've worked for several startups on roles related to Web Development and Machine Learning. My major interest lie in building software with Python and learning more about Machine Learning and Web Development.
+
 <!--
 **nsn39/nsn39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
